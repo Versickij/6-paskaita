@@ -1,8 +1,40 @@
 th, 
 td {
-    border: 1px solid black;
+    border: 1px solid #bfbfbf;
 }
 
 table {
     border-collapse: collapse;
+    text-align: center;
+}
+
+.source {
+    text-align: right;
+}
+
+th {
+    padding: 10px 10px;
+}
+
+.top {
+    color: white;
+    background-color: #14b5eb;
+    font-size: x-large;
+}
+
+.top2 {
+    color: white;
+    background-color: #666666;
+}
+
+.tamsiai_pilka {
+    background-color: #e8e7e5;
+}
+
+.sviesiai_pilka {
+    background-color: #e8e7e54d;
+}
+
+tfoot {
+    border-top: 1.2px solid black;
 }
